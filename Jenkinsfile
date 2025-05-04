@@ -18,7 +18,7 @@ pipeline {
   }
   post {
     always {
-      echo 'Build completed'
+      echo 'Build completed - Mr.Chaitanya'
     }
   }
 }
